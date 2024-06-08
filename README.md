@@ -17,7 +17,7 @@ Das Projekt "VerkaufsAnalyse" ist darauf ausgerichtet, Verkaufsdaten eines Einze
 
 1. Klonen Sie das Repository:
     ```bash
-    git clone https://github.com/your-username/VerkaufsAnalyse.git
+    git clone https://github.com/FloZewi/VerkaufsAnalyse.git
     cd VerkaufsAnalyse
     ```
 
